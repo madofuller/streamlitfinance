@@ -518,4 +518,3 @@ except:
 #------------------------------------------------------------------------------#
 st.subheader('References')
 st.markdown("Explanatory text from [Investopedia](https://www.investopedia.com/)")
-st.markdown("Github [Repo](https://github.com/amolnaik/pynance)")
